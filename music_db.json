@@ -1,5 +1,6 @@
 }
-	"musics": [
+	"musics": 
+	[
 		{
 			"id": "0",
 			"music_name": "NIGHTRIDER",
@@ -21,12 +22,19 @@
 			"artist": "Baowee",
 			"year": "2020"
 		},
-    {
-		"id": "xx1212312121",
-		"music_name": "very good",
-		"music_genre": "abc",
-		"artist": "GGWP",
-		"year": "2020"
-	  }
+    	{
+			"id": "xx1212312121",
+			"music_name": "very good",
+			"music_genre": "abc",
+			"artist": "GGWP",
+			"year": "2020"
+		  },
+		  {
+			"id": "12345678",
+			"music_name": "karlos",
+			"music_genre": "rock",
+			"artist": "karlos",
+			"year": "2020"
+	  	}
 	]
 }
